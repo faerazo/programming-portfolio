@@ -1,0 +1,17 @@
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.csproj.AssemblyReference.cache
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.MainForm.resources
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.csproj.GenerateResource.cache
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.AssemblyInfoInputs.cache
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.AssemblyInfo.cs
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.exe
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.deps.json
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.runtimeconfig.json
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.dll
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.pdb
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.dll
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\refint\Assignment3.dll
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.pdb
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.genruntimeconfig.cache
+C:\Users\faerazo\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\ref\Assignment3.dll

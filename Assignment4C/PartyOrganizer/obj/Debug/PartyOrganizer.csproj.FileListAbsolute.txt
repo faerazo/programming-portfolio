@@ -1,0 +1,11 @@
+C:\Users\faerazo\source\repos\Assignment4C\PartyOrganizer\bin\Debug\PartyOrganizer.exe.config
+C:\Users\faerazo\source\repos\Assignment4C\PartyOrganizer\bin\Debug\PartyOrganizer.exe
+C:\Users\faerazo\source\repos\Assignment4C\PartyOrganizer\bin\Debug\PartyOrganizer.pdb
+C:\Users\faerazo\source\repos\Assignment4C\PartyOrganizer\obj\Debug\PartyOrganizer.csproj.AssemblyReference.cache
+C:\Users\faerazo\source\repos\Assignment4C\PartyOrganizer\obj\Debug\PartyOrganizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\faerazo\source\repos\Assignment4C\PartyOrganizer\obj\Debug\PartyOrganizer.MainForm.resources
+C:\Users\faerazo\source\repos\Assignment4C\PartyOrganizer\obj\Debug\PartyOrganizer.Properties.Resources.resources
+C:\Users\faerazo\source\repos\Assignment4C\PartyOrganizer\obj\Debug\PartyOrganizer.csproj.GenerateResource.cache
+C:\Users\faerazo\source\repos\Assignment4C\PartyOrganizer\obj\Debug\PartyOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\faerazo\source\repos\Assignment4C\PartyOrganizer\obj\Debug\PartyOrganizer.exe
+C:\Users\faerazo\source\repos\Assignment4C\PartyOrganizer\obj\Debug\PartyOrganizer.pdb

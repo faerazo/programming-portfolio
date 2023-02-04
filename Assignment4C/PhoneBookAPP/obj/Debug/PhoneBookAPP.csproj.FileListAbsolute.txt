@@ -1,0 +1,8 @@
+C:\Users\faerazo\source\repos\Assignment4C\PhoneBookAPP\obj\Debug\PhoneBookAPP.csproj.AssemblyReference.cache
+C:\Users\faerazo\source\repos\Assignment4C\PhoneBookAPP\obj\Debug\PhoneBookAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\faerazo\source\repos\Assignment4C\PhoneBookAPP\obj\Debug\PhoneBookAPP.csproj.CoreCompileInputs.cache
+C:\Users\faerazo\source\repos\Assignment4C\PhoneBookAPP\bin\Debug\PhoneBookAPP.exe.config
+C:\Users\faerazo\source\repos\Assignment4C\PhoneBookAPP\bin\Debug\PhoneBookAPP.exe
+C:\Users\faerazo\source\repos\Assignment4C\PhoneBookAPP\bin\Debug\PhoneBookAPP.pdb
+C:\Users\faerazo\source\repos\Assignment4C\PhoneBookAPP\obj\Debug\PhoneBookAPP.exe
+C:\Users\faerazo\source\repos\Assignment4C\PhoneBookAPP\obj\Debug\PhoneBookAPP.pdb
